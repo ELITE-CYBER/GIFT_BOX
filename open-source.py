@@ -1,10 +1,8 @@
 #=====[========GIFT=========]=============#
 #RANDOM CLONE SCRIPT GIFT BY Akash TOOLS
-#TALEGRAM CHANNEL NANE : MR_Akash TERMUX COMMUNITY
+#FB GURUP NANE : ELITE CYBER COMMUNITY
 #GIFT
 #FUCK YOUR PRO PROGRAMMER OKY
-
-
 #--------------------------(IMPORT BOX)--------------------------#
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
