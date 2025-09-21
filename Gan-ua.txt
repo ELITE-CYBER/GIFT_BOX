@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/495.0.0.0.9;FBBV/458001370;FBDM/{density=1.1,width=1440,height=2560};FBLC/fr_CI;FBCR/Grammenphone;FBMF/samsung;FBBD/Galaxy A10s;FBPN/com.facebook.katana;FBDV/SM-A107F;FBSV/11;FBOP/1;FBCA/armeabi-v7a:armeabi;]
